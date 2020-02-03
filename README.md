@@ -5,7 +5,7 @@ with two circles moving left to right. I didn't read the task and created this.
 ![preview](https://raw.githubusercontent.com/McLP2/Billard/master/preview.png)
 
 Features:
-* Accurate physics simulation
+* Semi-Accurate physics simulation
 * Easily hackable multiplayer
 * Slow graphics
 * Simplified, undocumented rules
