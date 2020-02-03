@@ -1,4 +1,6 @@
 # Billard
+Depends on [SuM](https://www.mg-werl.de/sum/).
+
 This project was part of school. We had to create a "Billard Game"
 with two circles moving left to right. I didn't read the task and created this.
 
